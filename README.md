@@ -8,9 +8,9 @@
 zhuangchengfeng/zhuangchengfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Python](https://img.shields.io/badge/Python-Python--red)
-![Python](https://img.shields.io/badge/Python-3.12-red)
-![Binance](https://img.shields.io/badge/Binance-Binance--yellow)
+![Python](https://img.shields.io/badge/Python-red)
 
-![Trading](https://img.shields.io/badge/Trading-Trading--green)
+![Binance](https://img.shields.io/badge/Binance-Binance-yellow)
+
+![Trading](https://img.shields.io/badge/Trading-Trading-green)
 
